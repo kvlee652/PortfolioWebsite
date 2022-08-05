@@ -4,23 +4,11 @@ h1 {font-family: 'Playfair Display', serif;}
 h2,h3,h4,h5,h6, .footer {font-family: 'Source Sans Pro', serif; color: black;}
 
 .w3-row-padding img {margin-bottom: 12px}
-.bgimg {
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url('/assets/IMG_6518.JPG');
-  min-height: 100%;
-}
+
 
 .footer {color: white;}
 
-.bgimg {
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url('/assets/IMG_6518.JPG');
-  min-height: 100%;
-}
+
 
 
 
