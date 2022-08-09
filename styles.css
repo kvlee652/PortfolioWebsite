@@ -1,0 +1,54 @@
+body,  p {font-family: 'Source Sans Pro', serif;}
+
+h1 {font-family: 'Playfair Display', serif; ;} 
+h2,h3,h4,h5,h6, .footer {font-family: 'Source Sans Pro', serif; color: black;}
+
+.w3-row-padding img {margin-bottom: 12px}
+
+
+.footer {color: white;}
+
+ .w3-opacity {
+  border: 3px solid black;
+  border-radius: 5px;
+}
+
+.w3-container {
+  border-radius: 5px;
+}
+
+.w3-card {
+  border: 2px solid black;
+}
+
+h4 {
+  color: black;
+  text-align: center;
+}
+
+/*.logo {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+}
+
+.logo:hover {
+  box-shadow: 0 0 2px 1px black;
+}
+*/
+
+.w3-padding-16 {text-indent: 20px;}
+.description {font-size: 20px;}
+.footer {font-size: 15px;}
+#about {font-size: 20px;}
+
+.w3-wide {font-size: 17px;
+}
+
+/* @media (max-width: 600px) {
+    .row {
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+  }
