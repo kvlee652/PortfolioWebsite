@@ -57,16 +57,7 @@ h4 {
   display: inline-block
 }
 
-/*.contact-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px solid black;
-    border-radius: 4px;
-    padding: 5px;
-    margin-bottom: 25%;
-}
-*/
+
 div.polaroid {
   width: 50%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -84,17 +75,7 @@ div.container {
   font-size: medium;
   font-weight: 500;
 }
-/*.logo {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 300px;
-}
 
-.logo:hover {
-  box-shadow: 0 0 2px 1px black;
-}
-*/
 
 .w3-padding-16 {text-indent: 20px;}
 .description {font-size: 25px;}
@@ -104,7 +85,7 @@ div.container {
 .w3-wide {font-size: 17px;
 }
 
-/* @media (max-width: 600px) {
+ @media (max-width: 600px) {
     .row {
       -webkit-flex-direction: column;
       flex-direction: column;
