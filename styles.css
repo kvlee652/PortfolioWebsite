@@ -23,9 +23,67 @@ h2,h3,h4,h5,h6, .footer {font-family: 'Source Sans Pro', serif; color: black;}
 
 h4 {
   color: black;
+  font-weight: bold;
   text-align: center;
 }
 
+.thumbnail-img {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  float: right;
+  margin: 0px 0px 15px 20px;
+}
+
+.thumbnail-img:hover {
+  box-shadow: 0 0 2px 1px black (0, 140, 186, 0.5);
+}
+
+.bio {
+  font-weight: 400;
+}
+
+.about-img {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+.contact-msg {
+  font-size: 40px;
+  font-weight: 400;
+  display: inline-block
+}
+
+/*.contact-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    margin-bottom: 25%;
+}
+*/
+div.polaroid {
+  width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  display: block;
+  margin-left: auto;
+    margin-right: auto;
+}
+div.container {
+  padding: 10px;
+ 
+}
+
+.contact-info {
+  font-size: medium;
+  font-weight: 500;
+}
 /*.logo {
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -39,8 +97,8 @@ h4 {
 */
 
 .w3-padding-16 {text-indent: 20px;}
-.description {font-size: 20px;}
-.footer {font-size: 15px;}
+.description {font-size: 25px;}
+.footer {font-size: 17px;}
 #about {font-size: 20px;}
 
 .w3-wide {font-size: 17px;
